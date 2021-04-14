@@ -1,0 +1,8 @@
+Version 0.1
+===========
+
+Released April 12, 2021
+
+- Initial release
+- Support for Python >= 3
+- Includes market holidays and trading days for Canada, South Africa, Nigeria, and United States.
