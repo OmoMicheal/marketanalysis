@@ -70,7 +70,7 @@ The latest stable version can always be installed or updated via pip:
 
 .. code-block:: bash
 
-    $ pip install marketholidays==0.1
+    $ pip install marketholidays==0.11
     
 Clone repo with git bash:
 
