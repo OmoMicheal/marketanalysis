@@ -2,7 +2,7 @@
 marketanalysis
 ===============
 
-A fast, efficient Python library for generating market holidays based on countries'
+A fast, efficient Python library for generating market holidays and trading days based on countries'
 security exchanges. It aims to make determining whether a specific date is a market 
 holiday as fast and flexible as possible.
 
